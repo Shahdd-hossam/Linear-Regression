@@ -12,6 +12,6 @@ Trained a Linear Regression model on the cleaned dataset, achieving an Adjusted 
 Feature Selection:
 Employed various techniques to optimize model performance, including:
 
-Partial F-test for assessing feature relevance
-Mean Squared Error (MSE) analysis
+Partial F-test for assessing feature relevance, 
+Mean Squared Error (MSE) analysis, 
 Elimination of features causing multicollinearity
